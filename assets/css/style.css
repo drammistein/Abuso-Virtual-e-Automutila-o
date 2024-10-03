@@ -108,6 +108,9 @@ footer {
         height: 5rem;
     }
 
+    #titulo {
+        font-size: 30px;
+    }
     .section {
         margin-bottom: 1rem;
     }
