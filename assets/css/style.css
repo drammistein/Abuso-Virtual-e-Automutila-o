@@ -35,10 +35,13 @@ body {
 }
 
 .container {
-
+    //overflow: hidden;
 }
 
-
+#img_tema {
+    width: 40%;
+    margin: auto;
+}
 
 .card {
     margin: auto;
@@ -95,12 +98,18 @@ video {
 
 
 footer {
-    position: absolute;
+    //position: absolute;
     width: 100%;
     bottom: 0;      
 
 }
+footer p {
+    line-height: 0.5rem;
+}
 
+#credit {
+    font-size: 0.8rem;
+}
   
 @media (max-width: 767px) {
 
@@ -119,10 +128,20 @@ footer {
         padding-bottom: 50px;
     }
 
+    #img_tema {
+        width: 100%;
+    }
+
     .navbar-toggler {
         display: none;
     }
    
+    .intro {
+        padding-top: 25px;
+    }
+    .card-title {
+        margin-top: -18px;
+    }
 
     .video-container {
         flex-direction: column;
