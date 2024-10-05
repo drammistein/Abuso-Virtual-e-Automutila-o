@@ -108,7 +108,7 @@ footer p {
 }
 
 #credit {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
 }
   
 @media (max-width: 767px) {
@@ -169,11 +169,6 @@ footer p {
         
     }
 
-
-
-    .container {
-        overflow: hidden;
-    }
 
 }
 
