@@ -158,8 +158,13 @@ footer p {
     video {
        width: 100%;
     }
+
+    #videos {
+        margin-bottom: -20px;
+    }
     
     footer {
+        margin-top: 1px;
         //position: fixed;
         
     }
