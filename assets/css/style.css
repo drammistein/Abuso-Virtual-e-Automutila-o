@@ -35,7 +35,7 @@ body {
 }
 
 .container {
-    //overflow: hidden;
+    overflow: hidden;
 }
 
 #img_tema {
@@ -151,12 +151,16 @@ footer p {
         margin-bottom: 10px;
     }
 
+    .finish, .automut {
+        padding-top: 1px;
+    }
+
     video {
        width: 100%;
     }
     
     footer {
-        position: fixed;
+        //position: fixed;
         
     }
 
