@@ -171,7 +171,9 @@ footer p {
 
 
 
-
+    .container {
+        overflow: hidden;
+    }
 
 }
 
