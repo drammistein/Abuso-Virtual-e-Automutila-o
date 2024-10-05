@@ -46,7 +46,7 @@ body {
 .card {
     margin: auto;
     margin-bottom: 0.5rem;
-    max-width: 95%;    
+    max-width: 100%;    
     border: none;
 }
 
